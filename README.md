@@ -1,7 +1,7 @@
 # android-x86-frugal-installer
-Android-x86 installer for frugal install
+Android-x86(pie-x86) installer for frugal install
 
-android-x86を他のLinux環境上にいわゆるfrugal installします。
+android-x86を他のLinux環境上にいわゆるfrugal installします。**pie-x86のみ**に対応しています。
 
 なお動作確認はUbuntu 20.04.1 LTS環境で行っています。他の環境でも動作する可能性はありますが未確認です。
 
