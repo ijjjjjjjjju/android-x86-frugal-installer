@@ -26,7 +26,8 @@ android-x86を他のLinux環境上にいわゆるfrugal installします。**pie
 
 
 
-必要な事前準備
+
+**必要な事前準備**
 
 ・Android-x86のISOイメージ
 
@@ -58,3 +59,10 @@ kernelおよびfirmwareについてはインストール作業前に圧縮ファ
 
 sudo apt install lzip
 
+
+
+**使用方法**
+
+実行にはroot権限が必要です。
+
+sudo ./android_inst.sh
